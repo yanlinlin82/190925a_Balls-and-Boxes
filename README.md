@@ -1,3 +1,3 @@
 # Balls and Boxes
 
-![](plog.png)
+![](plot.png)
